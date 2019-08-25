@@ -10,17 +10,19 @@ margin-top:0px;
 border-radius: 50px;
 text-shadow: 3px 3px 5px grey;
 font-size: 1.2em;}
-li #lol{
-  font-size: 1.2em;
-  color: lightblue;
 
+
+nav {
+  border: 3px lightblue inset;
+  border-radius: 10px;
+  font-size: 1.5em;
 }
 
 
 div ="container"
 {align-items: center;}
 
-li class="hoverd":hover
+li .hovered:hover
 {font-size: 1.5em;
 transition: 0.6 sec ease;}
 
