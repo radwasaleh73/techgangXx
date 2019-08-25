@@ -1,12 +1,14 @@
 html
-{background-color: black;}
+{background-color: lightblue;}
 body
-{background-color: black;
+{ background-color: black;
 margin-right:150px;
 margin-left:150px;
 margin-top:0px;
     margin-bottom:0px;
-  color : white;}
+  color : white;
+border-radius: 50px;}
+
 
 div ="container"
 {align-items: center;}
@@ -14,3 +16,17 @@ div ="container"
 li:hover
 {font-size: 1.5em;
 transition: 0.6 sec ease;}
+
+div {
+  text-shadow: 3px 3px 5px grey;
+  font-size: 24;
+}
+h1 {
+  text shadow: 3px 3px 5px blue;
+  color : lightblue;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 6em;
+  text-align: center;
+
+}
