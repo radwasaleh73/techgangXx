@@ -8,3 +8,10 @@ margin-top:0px;
     margin-bottom:0px;
   color : white;
 border-radius: 50px;}
+
+h1 {
+  text-align: center;
+  text-shadow: 3px 3px 5px grey;
+  font-style: italic;
+  
+}
