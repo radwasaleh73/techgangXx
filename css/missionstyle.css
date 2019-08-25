@@ -1,0 +1,24 @@
+h1 {
+  text shadow: 3px 3px 5px blue;
+  color : lightblue;
+  font-style: oblique;
+  font-family: sans-serif lightblue;
+  font-size: 6em;
+  text-align: center;}
+
+  body
+  { background-color: black;
+  margin-right:150px;
+  margin-left:150px;
+  margin-top:0px;
+    margin-bottom:0px;
+    color : white;
+  border-radius: 50px;
+  text-shadow: 3px 3px 5px grey;
+  font-size: 1.2em;}
+
+  html
+  {background-color: lightblue;}
+
+p.paragraph
+{border-left: 200px;}
