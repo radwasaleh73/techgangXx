@@ -5,9 +5,16 @@ body
 margin-right:150px;
 margin-left:150px;
 margin-top:0px;
-    margin-bottom:0px;
+  margin-bottom:0px;
   color : white;
-border-radius: 50px;}
+border-radius: 50px;
+text-shadow: 3px 3px 5px grey;
+font-size: 1.2em;}
+li #lol{
+  font-size: 1.2em;
+  color: lightblue;
+
+}
 
 
 div.container
@@ -17,15 +24,11 @@ li.hoverd :hover
 {font-size: 1.5em;
 transition: 0.6 sec ease;}
 
-div {
-  text-shadow: 3px 3px 5px grey;
-  font-size: 24;
-}
 h1 {
   text shadow: 3px 3px 5px blue;
   color : lightblue;
   font-style: oblique;
-  font-family: monospace;
+  font-family: sans-serif lightblue;
   font-size: 6em;
   text-align: center;
 
