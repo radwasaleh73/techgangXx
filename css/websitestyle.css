@@ -20,7 +20,7 @@ li #lol{
 div ="container"
 {align-items: center;}
 
-li:hover
+li class="hoverd":hover
 {font-size: 1.5em;
 transition: 0.6 sec ease;}
 
