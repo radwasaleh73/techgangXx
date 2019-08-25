@@ -19,10 +19,14 @@ nav {
 }
 
 
-div ="container"
+div.container
 {align-items: center;}
 
+<<<<<<< HEAD
 li .hovered:hover
+=======
+li.hoverd :hover
+>>>>>>> 00e865b155998ce8a67f38ec907ff4d5646e548f
 {font-size: 1.5em;
 transition: 0.6 sec ease;}
 
