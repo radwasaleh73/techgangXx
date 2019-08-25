@@ -20,7 +20,8 @@ nav {
 
 
 div.container
-{align-items: center;}
+{width: : 600px;
+shape-margin: 600px;}
 
 <<<<<<< HEAD
 li .hovered:hover
